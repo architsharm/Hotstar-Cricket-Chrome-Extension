@@ -11,6 +11,8 @@ Note- Every 9 min the page is automatically reloaded.
   Add this repository as an extension (load unpacked in developer options).
   
   Navigate to hotstar's page and click on the extention icon.
+  
+  Alternatively, you can use hotstar-exploit-master.crx to directly install the extension for chrome
  
 
   
