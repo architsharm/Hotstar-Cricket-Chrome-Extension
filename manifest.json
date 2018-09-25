@@ -1,0 +1,20 @@
+{
+    "name": "HotStar Cricket",
+    "version": "1.0",
+    "description": "Let you play cricket matches without doing any manual work. Extension will reload page every 9 mins, after clearing the local storage",
+    "manifest_version": 2,
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": true
+    },
+    "permissions": [
+        "tabs",
+        "activeTab",
+        "notifications",
+        "http://*/",
+        "https://*/"
+    ],
+    "browser_action": {}
+}
